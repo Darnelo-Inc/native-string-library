@@ -1,0 +1,48 @@
+
+
+Symbols from main.O:
+
+Name                  Value   Class        Type         Size     Line  Section
+
+std::istream::operator>>(int&)|        |   U  |                  |        |     |
+std::ostream::operator<<(void const*)|        |   U  |                  |        |     |
+std::ios_base::Init::Init()|        |   U  |                  |        |     |
+std::ios_base::Init::~Init()|        |   U  |                  |        |     |
+std::cin            |        |   U  |                  |        |     |
+std::cout           |        |   U  |                  |        |     |
+std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)|        |   U  |                  |        |     |
+vtable for __cxxabiv1::__class_type_info|        |   U  |                  |        |     |
+operator delete(void*)|        |   U  |                  |        |     |
+__main              |        |   U  |                  |        |     |
+_alloca             |        |   U  |                  |        |     |
+.bss                |00000000|   b  |                  |        |     |
+.ctors              |00000000|   d  |                  |        |     |
+.data               |00000000|   d  |                  |        |     |
+.dtors              |00000000|   d  |                  |        |     |
+.rdata              |00000000|   r  |                  |        |     |
+.rdata$_ZTI1A       |00000000|   r  |                  |        |     |
+.rdata$_ZTS1A       |00000000|   r  |                  |        |     |
+.rdata$_ZTV1A       |00000000|   r  |                  |        |     |
+.stab               |00000000|   N  |                  |        |     |
+.stabstr            |00000000|   N  |                  |        |     |
+.text               |00000000|   t  |                  |        |     |
+.text$_ZN1A4fun1Ev  |00000000|   t  |                  |        |     |
+.text$_ZN1AD0Ev     |00000000|   t  |                  |        |     |
+.text$_ZN1AD1Ev     |00000000|   t  |                  |        |     |
+A::fun1()           |00000000|   T  |                  |        |     |
+A::~A()             |00000000|   T  |                  |        |     |
+A::~A()             |00000000|   T  |                  |        |     |
+std::__verify_grouping(char const*, unsigned int, std::string const&)|00000000|   t  |                  |        |     |
+typeinfo for A      |00000000|   R  |                  |        |     |
+typeinfo name for A |00000000|   R  |                  |        |     |
+vtable for A        |00000000|   R  |                  |        |     |
+aa                  |00000000|   B  |                  |        |     |
+b                   |00000000|   D  |                  |        |     |
+arr                 |00000004|   D  |                  |        |     |
+a                   |00000008|   B  |                  |        |     |
+std::__ioinit       |00000010|   b  |                  |        |     |
+A::fun2()           |000000b6|   T  |                  |        |     |
+main                |000000c0|   T  |                  |        |     |
+__static_initialization_and_destruction_0(int, int)|00000128|   t  |                  |        |     |
+global constructors keyed to _ZN1A4fun2Ev|000001be|   t  |                  |        |     |
+global destructors keyed to _ZN1A4fun2Ev|000001da|   t  |                  |        |     |

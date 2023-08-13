@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(42,1): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(126,65): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(127,64): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+  LinkedListProject.vcxproj -> C:\Users\Denis\Documents\SpbuInformatics\Sem2\LinkedListProject\Debug\LinkedListProject.exe

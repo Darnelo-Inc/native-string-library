@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(47,1): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(17): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(99,65): warning C4267: аргумент: преобразование из "size_t" в "uint"; возможна потеря данных
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(99,65): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(17): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(102,64): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(17): message : см. объявление "String::sRep::operator new"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  UnionString.vcxproj -> C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\x64\Release\UnionString.exe

@@ -1,0 +1,248 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >Darnelo.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >Darnelo</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="QtVersionId" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="QtVersionId" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString" >ANDROID_HOME=C:\Users\Denis\AppData\Local\Android\Sdk</value>
+    <value type="QString" >APPDATA=C:\Users\Denis\AppData\Roaming</value>
+    <value type="QString" >COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString" >COMPUTERNAME=LAPTOP-8GK78DJ5</value>
+    <value type="QString" >COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString" >DRIVERDATA=C:\Windows\System32\Drivers\DriverData</value>
+    <value type="QString" >HOMEDRIVE=C:</value>
+    <value type="QString" >HOMEPATH=\Users\Denis</value>
+    <value type="QString" >JAVA_HOME=C:\Program Files\Java\jdk1.8.0_301</value>
+    <value type="QString" >LOCALAPPDATA=C:\Users\Denis\AppData\Local</value>
+    <value type="QString" >LOGONSERVER=\\LAPTOP-8GK78DJ5</value>
+    <value type="QString" >NUMBER_OF_PROCESSORS=12</value>
+    <value type="QString" >ONEDRIVE=C:\Users\Denis\OneDrive</value>
+    <value type="QString" >ONEDRIVECONSUMER=C:\Users\Denis\OneDrive</value>
+    <value type="QString" >OS=Windows_NT</value>
+    <value type="QString" >PATH=C:\Qt\2009.03\mingw\bin;C:\Qt\2009.03\qt\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\R2021a\bin;C:\Users\Denis\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Denis\AppData\Local\Programs\Python\Python39\;C:\Users\Denis\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\ProgramData\Denis\GitHubDesktop\bin;C:\Users\Denis\AppData\Local\GitHubDesktop\bin;C:\Users\Denis\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Denis\AppData\Roaming\npm;C:\Users\Denis\.dotnet\tools;C:\Program Files\heroku\bin;C:\Users\Denis\AppData\Local\Android\Sdk\platform-tools;C:\Users\Denis\Documents\Flutter-sdk\flutter\bin;C:\Qt\2009.03\bin;C:\Qt\2009.03\qt\bin;C:\Qt\2009.03\mingw\bin</value>
+    <value type="QString" >PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString" >PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString" >PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString" >PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD</value>
+    <value type="QString" >PROCESSOR_LEVEL=25</value>
+    <value type="QString" >PROCESSOR_REVISION=5000</value>
+    <value type="QString" >PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString" >PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMW6432=C:\Program Files</value>
+    <value type="QString" >PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString" >PUBLIC=C:\Users\Public</value>
+    <value type="QString" >PYCHARM COMMUNITY EDITION=C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;</value>
+    <value type="QString" >QTDIR=C:/Qt/2009.03/qt</value>
+    <value type="QString" >SESSIONNAME=Console</value>
+    <value type="QString" >SYSTEMDRIVE=C:</value>
+    <value type="QString" >SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString" >TEMP=C:\Users\Denis\AppData\Local\Temp</value>
+    <value type="QString" >TMP=C:\Users\Denis\AppData\Local\Temp</value>
+    <value type="QString" >USERDOMAIN=LAPTOP-8GK78DJ5</value>
+    <value type="QString" >USERDOMAIN_ROAMINGPROFILE=LAPTOP-8GK78DJ5</value>
+    <value type="QString" >USERNAME=Denis</value>
+    <value type="QString" >USERPROFILE=C:\Users\Denis</value>
+    <value type="QString" >WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >C:/Users/Denis/Documents/SpbuInformatics/Sem2/Darnelo/Darnelo.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >win32-g++</value>
+    <value type="QString" >-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >C:/Qt/2009.03/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >C:/Users/Denis/Documents/SpbuInformatics/Sem2/Darnelo</value>
+   <value key="buildConfiguration" type="int" >2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString" >ANDROID_HOME=C:\Users\Denis\AppData\Local\Android\Sdk</value>
+    <value type="QString" >APPDATA=C:\Users\Denis\AppData\Roaming</value>
+    <value type="QString" >COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString" >COMPUTERNAME=LAPTOP-8GK78DJ5</value>
+    <value type="QString" >COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString" >DRIVERDATA=C:\Windows\System32\Drivers\DriverData</value>
+    <value type="QString" >HOMEDRIVE=C:</value>
+    <value type="QString" >HOMEPATH=\Users\Denis</value>
+    <value type="QString" >JAVA_HOME=C:\Program Files\Java\jdk1.8.0_301</value>
+    <value type="QString" >LOCALAPPDATA=C:\Users\Denis\AppData\Local</value>
+    <value type="QString" >LOGONSERVER=\\LAPTOP-8GK78DJ5</value>
+    <value type="QString" >NUMBER_OF_PROCESSORS=12</value>
+    <value type="QString" >ONEDRIVE=C:\Users\Denis\OneDrive</value>
+    <value type="QString" >ONEDRIVECONSUMER=C:\Users\Denis\OneDrive</value>
+    <value type="QString" >OS=Windows_NT</value>
+    <value type="QString" >PATH=C:\Qt\2009.03\mingw\bin;C:\Qt\2009.03\qt\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\R2021a\bin;C:\Users\Denis\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Denis\AppData\Local\Programs\Python\Python39\;C:\Users\Denis\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\ProgramData\Denis\GitHubDesktop\bin;C:\Users\Denis\AppData\Local\GitHubDesktop\bin;C:\Users\Denis\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Denis\AppData\Roaming\npm;C:\Users\Denis\.dotnet\tools;C:\Program Files\heroku\bin;C:\Users\Denis\AppData\Local\Android\Sdk\platform-tools;C:\Users\Denis\Documents\Flutter-sdk\flutter\bin;C:\Qt\2009.03\bin;C:\Qt\2009.03\qt\bin;C:\Qt\2009.03\mingw\bin</value>
+    <value type="QString" >PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString" >PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString" >PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString" >PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD</value>
+    <value type="QString" >PROCESSOR_LEVEL=25</value>
+    <value type="QString" >PROCESSOR_REVISION=5000</value>
+    <value type="QString" >PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString" >PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMW6432=C:\Program Files</value>
+    <value type="QString" >PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString" >PUBLIC=C:\Users\Public</value>
+    <value type="QString" >PYCHARM COMMUNITY EDITION=C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;</value>
+    <value type="QString" >QTDIR=C:/Qt/2009.03/qt</value>
+    <value type="QString" >SESSIONNAME=Console</value>
+    <value type="QString" >SYSTEMDRIVE=C:</value>
+    <value type="QString" >SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString" >TEMP=C:\Users\Denis\AppData\Local\Temp</value>
+    <value type="QString" >TMP=C:\Users\Denis\AppData\Local\Temp</value>
+    <value type="QString" >USERDOMAIN=LAPTOP-8GK78DJ5</value>
+    <value type="QString" >USERDOMAIN_ROAMINGPROFILE=LAPTOP-8GK78DJ5</value>
+    <value type="QString" >USERNAME=Denis</value>
+    <value type="QString" >USERPROFILE=C:\Users\Denis</value>
+    <value type="QString" >WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >C:/Qt/2009.03/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >C:/Users/Denis/Documents/SpbuInformatics/Sem2/Darnelo</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="buildConfiguration" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >Debug</value>
+   <value type="QString" >Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>

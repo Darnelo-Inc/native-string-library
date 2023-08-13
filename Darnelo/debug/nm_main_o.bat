@@ -1,0 +1,1 @@
+nm --format=sysv -n -C main.O > out_main_o.txt

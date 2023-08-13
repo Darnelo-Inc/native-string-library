@@ -1,0 +1,35 @@
+﻿  String.cpp
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(47,1): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(17): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(99,65): warning C4267: аргумент: преобразование из "size_t" в "uint"; возможна потеря данных
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(99,65): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(17): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(102,64): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.h(17): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(70,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(73,37): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(42): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(78,35): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(80,44): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(122,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(127,31): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(130,36): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(42): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(134,38): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(143,33): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(42): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(147,34): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(159,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(171,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(180,50): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(183,50): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(205,43): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(53): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\StaticStringLib\String.cpp(225,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  StaticStringLib.vcxproj -> C:\Users\Denis\Documents\SpbuInformatics\Sem2\StaticStringLib\x64\Release\StaticStringLib.lib
