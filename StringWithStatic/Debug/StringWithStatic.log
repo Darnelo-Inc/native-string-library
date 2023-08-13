@@ -1,0 +1,36 @@
+﻿  String.cpp
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(42,1): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(126,65): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(127,64): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(69,37): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(34): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(75,35): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(77,44): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(124,36): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(34): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(128,38): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(137,33): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(34): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(141,34): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(199,50): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(202,50): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(232,43): warning C4291: void *String::sRep::operator new(size_t,String::sRep *,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.cpp(47): message : см. объявление "String::sRep::operator new"
+  StringWithStatic.cpp
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(42,1): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(126,65): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(127,64): warning C4291: void *String::sRep::operator new(size_t,uint): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\String.h(20): message : см. объявление "String::sRep::operator new"
+  Создание кода...
+  StringWithStatic.vcxproj -> C:\Users\Denis\Documents\SpbuInformatics\Sem2\StringWithStatic\Debug\StringWithStatic.exe
